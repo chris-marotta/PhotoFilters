@@ -13,6 +13,7 @@
 		821F477C19F5F36600FEE929 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 821F477B19F5F36600FEE929 /* Images.xcassets */; };
 		821F477F19F5F36600FEE929 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 821F477D19F5F36600FEE929 /* LaunchScreen.xib */; };
 		821F478B19F5F36600FEE929 /* PhotoFiltersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 821F478A19F5F36600FEE929 /* PhotoFiltersTests.swift */; };
+		821F479519F5F3CA00FEE929 /* 3313808283_be43d0b825_b.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 821F479419F5F3CA00FEE929 /* 3313808283_be43d0b825_b.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		821F478419F5F36600FEE929 /* PhotoFiltersTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PhotoFiltersTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		821F478919F5F36600FEE929 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		821F478A19F5F36600FEE929 /* PhotoFiltersTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoFiltersTests.swift; sourceTree = "<group>"; };
+		821F479419F5F3CA00FEE929 /* 3313808283_be43d0b825_b.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 3313808283_be43d0b825_b.jpg; path = ../../../../../Desktop/3313808283_be43d0b825_b.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		821F477119F5F36600FEE929 /* PhotoFilters */ = {
 			isa = PBXGroup;
 			children = (
+				821F479419F5F3CA00FEE929 /* 3313808283_be43d0b825_b.jpg */,
 				821F477419F5F36600FEE929 /* AppDelegate.swift */,
 				821F477619F5F36600FEE929 /* ViewController.swift */,
 				821F477819F5F36600FEE929 /* Main.storyboard */,
@@ -192,6 +195,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				821F479519F5F3CA00FEE929 /* 3313808283_be43d0b825_b.jpg in Resources */,
 				821F477A19F5F36600FEE929 /* Main.storyboard in Resources */,
 				821F477F19F5F36600FEE929 /* LaunchScreen.xib in Resources */,
 				821F477C19F5F36600FEE929 /* Images.xcassets in Resources */,
